@@ -17,7 +17,7 @@ A React application that allows users to view jobs, filter them by employment ty
 ## 📸 Demo
 
 ### ✅ Success View
-[Success Demo](public/success.gif)
+[Success Demo]([public/success.gif](https://github.com/narasimha-146/Joggy-App/blob/master/public/joggy_app_success_view.mp4))
 
 ### ❌ Failure View
 [Failure Demo](public/failure.gif)
