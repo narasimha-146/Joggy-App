@@ -17,10 +17,10 @@ A React application that allows users to view jobs, filter them by employment ty
 ## 📸 Demo
 
 ### ✅ Success View
-![Success Demo](public/success.gif)
+[Success Demo](public/success.gif)
 
 ### ❌ Failure View
-![Failure Demo](public/failure.gif)
+[Failure Demo](public/failure.gif)
 
 ---
 
