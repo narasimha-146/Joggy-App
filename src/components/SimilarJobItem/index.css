@@ -4,9 +4,7 @@
   padding: 20px;
   color: #f1f5f9;
   list-style-type: none;
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .similar-job-item:hover {
