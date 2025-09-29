@@ -17,10 +17,10 @@ A React application that allows users to view jobs, filter them by employment ty
 ## 📸 Demo
 
 ### ✅ Success View
-[🎥 Watch Success Demo](public/joggy_app_success.mp4)
+[🎥 Watch Success Demo](public/joggy_app_success_view.mp4)
 
 ### ❌ Failure View
-[🎥 Watch Failure Demo](public/joggy_app_failure.mp4)
+[🎥 Watch Failure Demo](public/joggy_app_failure_view.mp4)
 
 ---
 
