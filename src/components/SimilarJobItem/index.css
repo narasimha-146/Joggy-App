@@ -1,0 +1,111 @@
+.similar-job-item {
+  background-color: #202020;
+  border-radius: 12px;
+  padding: 20px;
+  color: #f1f5f9;
+  list-style-type: none;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.similar-job-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+/* Header */
+.similar-job-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.similar-job-logo {
+  width: 55px;
+  height: 55px;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+.similar-job-title-rating {
+  display: flex;
+  flex-direction: column;
+}
+
+.similar-job-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 0;
+}
+
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: 6px;
+}
+
+.star-icon {
+  color: #fbbf24;
+  font-size: 16px;
+  margin-right: 6px;
+}
+
+.rating {
+  font-size: 14px;
+  color: #e2e8f0;
+}
+
+/* Description */
+.section-heading {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 12px 0 6px 0;
+  color: #f8fafc;
+}
+
+.description {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #d1d5db;
+}
+
+/* Meta section */
+.similar-job-meta {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.similar-job-meta .location,
+.similar-job-meta .employment-type {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: #e2e8f0;
+}
+
+.icon {
+  font-size: 16px;
+  color: #f8fafc;
+}
+
+/* Responsive improvements */
+@media screen and (min-width: 768px) {
+  .similar-job-item {
+    padding: 25px;
+  }
+
+  .similar-job-title {
+    font-size: 20px;
+  }
+
+  .description {
+    font-size: 15px;
+  }
+}
