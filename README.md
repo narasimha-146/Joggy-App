@@ -15,12 +15,24 @@ A React application that allows users to view jobs, filter them by employment ty
 ---
 
 ## 📸 Demo
+### Success View:
 
-### ✅ Success View
-[🎥 Watch Success Demo](public/joggy_app_success_view.mp4)
+<div style="text-align: center;">
+  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
+    <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4" type="video/mp4">
+  </video>
+</div>
+<br/>
 
-### ❌ Failure View
-[🎥 Watch Failure Demo](public/joggy_app_failure_view.mp4)
+**Failure View** <br/>
+
+<div style="text-align: center;">
+  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
+    <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-failure-output-v1.mp4" type="video/mp4">
+  </video>
+</div>
+<br/>
+
 
 ---
 
